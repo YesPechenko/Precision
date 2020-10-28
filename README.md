@@ -11,7 +11,7 @@
 ## Результаты
 
 1. 1 не успешный тест
-2. [Код для Приложения Precision не суммирует](https://github.com/YesPechenko/Precision/issues/1)
+2. [Код для Приложения Precision cуммирует неправильно](https://github.com/YesPechenko/Precision/issues/1)
 
 ## Общие рекомендации
 
